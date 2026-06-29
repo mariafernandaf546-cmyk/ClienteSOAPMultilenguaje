@@ -1,0 +1,7 @@
+[package]
+name = "version3_numeroaletras"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+spanish-numbers = "0.1.4"
