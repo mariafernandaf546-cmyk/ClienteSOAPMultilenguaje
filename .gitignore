@@ -1,0 +1,39 @@
+# Visual Studio / .NET
+bin/
+obj/
+
+# Ejecutables
+*.exe
+*.dll
+*.pdb
+
+# Archivos temporales
+*.user
+*.cache
+*.log
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Rust
+target/
+
+# Node.js
+node_modules/
+
+# Java
+*.class
+*.jar
+
+# C++
+*.o
+*.obj
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
+
+Cargo.lock
